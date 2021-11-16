@@ -6,4 +6,4 @@ WORKDIR /app
 COPY pluto.sh pluto.sh
 RUN chmod +x pluto.sh
 
-ENTRYPOINT [ "./pluto.sh" ]
+CMD [ "/app/pluto.sh" ]
