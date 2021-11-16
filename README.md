@@ -65,3 +65,6 @@ sudo docker run \
   --device=/dev/kmsg \
   gcr.io/cadvisor/cadvisor:$VERSION
 ```
+Screen z wynikiem:  
+![Screenshot from 2021-11-16 21-18-06](https://user-images.githubusercontent.com/48206982/142060041-88f4f645-a378-4725-b543-40bdd21ae8aa.png)
+
